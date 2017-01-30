@@ -67,8 +67,8 @@ if __name__ == "__main__":
 
     print("\n")
 
-    exchange = raw_input("Enter an exchange: ") #raw_input() doesn't work in python 3...
-    stock = raw_input("Enter a stock symbol: ")
+    exchange = input("Enter an exchange: ") #raw_input() doesn't work in python 3...
+    stock = input("Enter a stock symbol: ")
 
     print("\n")
 
